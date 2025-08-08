@@ -1,2 +1,0 @@
-Patient ID: 12	 Patient NAme: Anurag
-Patient ID: 22	 Patient NAme: Aman
