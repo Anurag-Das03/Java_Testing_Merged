@@ -47,12 +47,13 @@ public class AmazonLogin {
 			Thread.sleep(2000);
 			
 			driver.findElement(By.id("nav-search-submit-button")).click();
-			
+			Thread.sleep(5000);
 			
 			
 		}finally {
-			
+			driver.quit();
 		}
 	}
 
 }
+
